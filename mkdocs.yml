@@ -1,0 +1,77 @@
+site_name: BTS CIEL - Physique
+site_url: https://physique-bts-ciel.github.io/mkdocs/
+
+theme:
+  name: material
+  palette:
+    scheme: default
+  language : fr
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - admonition             # Alerte
+  - pymdownx.details       # for admonition
+  - pymdownx.superfences   # for admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_javascript:
+  - assets/javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
+
+
+nav:
+  - index.md
+
+  - Connaissances transversales :
+    - Lois générales de l'électricité :
+      - connaissances-transversales/lois_generales_electricite/11_regime_continu.md
+      - connaissances-transversales/lois_generales_electricite/12_regime_sinusoidal.md
+      - connaissances-transversales/lois_generales_electricite/13_adaptation_impedance.md
+    - Analyse et caractérisation temporelle et fréquentielle des signaux :
+      - connaissances-transversales/analyse_caracterisation_temporelle_frequentielle/21_representation_temporelle_signal.md
+      - connaissances-transversales/analyse_caracterisation_temporelle_frequentielle/22_representation_frequentielle_signal.md
+      - connaissances-transversales/analyse_caracterisation_temporelle_frequentielle/23_bruit.md
+    - Fonction filtrage. Structures de filtres analogiques et numériques :
+      - connaissances-transversales/filtrage_analogique_numerique/31_nature_filtres.md
+      - connaissances-transversales/filtrage_analogique_numerique/32_transmittance_isochrone.md
+      - connaissances-transversales/filtrage_analogique_numerique/33_diagramme_bode.md
+      - connaissances-transversales/filtrage_analogique_numerique/34_reponse_temporelle_echelon.md
+      - connaissances-transversales/filtrage_analogique_numerique/35_filtrage_numerique.md
+    - connaissances-transversales/4_appareils_mesures_et_banc_tests.md
+    - connaissances-transversales/5_mesures_et_incertitudes.md
+  
+  - Themes :
+    - Acquérir l'information :
+      - themes/acquerir_information/11_grandeur_mesuree.md
+      - themes/acquerir_information/12_capteurs.md
+      - themes/acquerir_information/13_capteurs_intelligents.md
+    - Traiter l'information :
+      - themes/traiter_information/21_chaine_de_mesure.md
+      - themes/traiter_information/22_fonctions_obtention_amplification_decalage_tension.md
+      - themes/traiter_information/23_numerisation_tension.md
+    - Transporter l'information :
+      - themes/transporter_information/31_ondes.md
+      - themes/transporter_information/32_lignes_transmission.md
+      - themes/transporter_information/33_fibre_optique.md
+      - themes/transporter_information/34_antennes.md
+      - themes/transporter_information/35_introduction_transmissions_numeriques.md
+      - themes/transporter_information/36_transmission_bande_base.md
+      - themes/transporter_information/37_transmission_frequence_porteuse.md
+    - Utiliser l'information :
+      - themes/utiliser_information/41_commande_actionneurs.md
+      - themes/utiliser_information/42_performances_systeme_boucle.md
+      - themes/utiliser_information/43_correction_analogique_numerique.md
+
+
+
+
