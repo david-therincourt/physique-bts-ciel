@@ -4,7 +4,7 @@ title: Mesures et incertitudes
 
 # Mesures et incertitudes
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Déterminer le domaine de validité d’une mesure d’après les caractéristiques des appareils utilisés.
     - Savoir définir la justesse et la fidélité d’une mesure.
@@ -21,8 +21,8 @@ title: Mesures et incertitudes
 
 ## Cours
 
-[Mesures et incertitudes - Cours (PDF)](../assets/cours/mesures_incertitudes/bts-ciel_mesures-et-incertitudes_cours.pdf)
+[Mesures et incertitudes - Cours :fontawesome-solid-file-pdf:](../assets/cours/mesures_incertitudes/bts-ciel_mesures-et-incertitudes_cours.pdf)
 
 ## Exercices
 
-[Mesures et incertitudes - Exercices (PDF)](../assets/cours/mesures_incertitudes/bts-ciel_mesures-et-incertitudes_exercices.pdf)
+[Mesures et incertitudes - Exercices :fontawesome-solid-file-pdf:](../assets/cours/mesures_incertitudes/bts-ciel_mesures-et-incertitudes_exercices.pdf)

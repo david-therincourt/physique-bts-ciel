@@ -6,7 +6,7 @@ title: Appareils de mesure et banc de tests
 
 ## Oscilloscope
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - *Brancher et régler un oscilloscope (déviation verticale, horizontale déclenchement, etc.) pour visualiser un signal (périodique, non périodique, transitoire, trame, etc.).*
     - *Exploiter les modes DC ou AC de l’oscilloscope pour visualiser un signal ou sa composante alternative.*
@@ -16,32 +16,32 @@ title: Appareils de mesure et banc de tests
 
 ## Analyseur de spectre
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - *Brancher et configurer un analyseur de spectre pour visualiser le spectre d’un signal.*
 
 ## Multimètre
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Savoir utiliser un voltmètre et un ampèremètre et leurs modes de mesure.
     - Savoir utiliser un ohmmètre.
 
 ## Testeur de câble
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - *Utiliser un testeur de câble pour réaliser des mesures sur une ligne de transmission.*
 
 ## Autres appareils de mesures
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - *Utiliser tout appareil de mesure adapté à l’analyse des grandeurs d’un système étudié (champ-mètre, caméra thermique, luxmètre, etc.).*
 
 ## Banc de tests
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Définir le rôle du banc de test dans la validation de tout ou partie d’une carte électronique.
     - *Mettre en œuvre un banc de test permettant de valider au moins une caractéristique de la maquette réalisée dans le projet ou dans un système.*

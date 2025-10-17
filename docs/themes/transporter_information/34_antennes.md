@@ -4,7 +4,7 @@ title: Les antennes
 
 # Les antennes
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Connaître le principe de fonctionnement d’une antenne et le lien entre la longueur d’onde de l’onde et la longueur de l’antenne.
     - Savoir exploiter la documentation d’une antenne afin de déterminer ses caractéristiques : impédance d’entrée, directivité, angle d’ouverture, gain en dBi et polarisation.

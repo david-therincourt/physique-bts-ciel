@@ -4,7 +4,7 @@ title: Représentation fréquentielle d’un signal
 
 # Représentation fréquentielle d’un signal
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Savoir utiliser la décomposition d’un signal périodique en une somme de sinusoïdes ; relation temps fréquence entre les deux représentations.
     - Savoir analyser un spectre de raies : identification du fondamental, de l’harmonique de rang n.

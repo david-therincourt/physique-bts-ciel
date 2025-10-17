@@ -4,7 +4,7 @@ title: Transmission numérique en bande de base
 
 # Transmission numérique en bande de base
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Définir le codage binaire, M-aire, le débit binaire et débit de symboles (vitesse de transmission).
     - Savoir représenter un signal en bande de base en fonction du temps à partir de sa règle de codage (NRZ, Manchester, et pour tout codage étudié dans un système électronique, etc.)

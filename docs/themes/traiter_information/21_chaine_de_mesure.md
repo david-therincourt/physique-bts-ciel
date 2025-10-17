@@ -4,7 +4,7 @@ title: La chaîne de mesure
 
 # La chaîne de mesure
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Savoir identifier les fonctions d’une chaîne de mesure (conversion d’une grandeur en tension, amplification/décalage, numérisation, etc.).
     - Savoir faire correspondre l’étendue de mesure à la pleine échelle du convertisseur analogique numérique (CAN) (réglage des paramètres des éléments de la chaîne de mesure).

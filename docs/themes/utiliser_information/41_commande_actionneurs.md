@@ -4,7 +4,7 @@ title: Commande d’actionneurs
 
 # Commande d’actionneurs
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Savoir identifier la partie commande et la partie puissance sur un système.
     - Savoir schématiser une chaîne d’action et décrire les fonctions et les signaux mis en jeu.

@@ -4,7 +4,7 @@ title: Diagramme de Bode
 
 # Diagramme de Bode
 
-!!! warning "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Savoir déterminer le gain (en dB) à une fréquence donnée à partir du diagramme de Bode d’un filtre.
     - Savoir calculer l’amplification à partir du gain (en dB) et réciproquement.

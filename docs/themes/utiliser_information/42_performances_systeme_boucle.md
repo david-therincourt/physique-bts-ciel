@@ -4,7 +4,7 @@ title: Performances d’un système bouclé
 
 # Performances d’un système bouclé
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Identifier et connaître les différents éléments fonctionnels d’un système asservi.
     - Connaître les définitions des performances d’un système bouclé : rapidité, stabilité, précision.

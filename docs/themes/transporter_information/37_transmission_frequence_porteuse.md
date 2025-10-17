@@ -4,7 +4,7 @@ title: Transmission sur fréquence(s) porteuse(s)
 
 # Transmission sur fréquence(s) porteuse(s)
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Connaître l’action d’un multiplieur et son effet sur le spectre en sortie (transposition en fréquence).
     - Mettre en œuvre un multiplieur avec plusieurs types de signaux pour observer la transposition en fréquence.

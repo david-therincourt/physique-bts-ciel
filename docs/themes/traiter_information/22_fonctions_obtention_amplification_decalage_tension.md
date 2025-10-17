@@ -4,7 +4,7 @@ title: Fonctions obtention, amplification et décalage de tension
 
 # Fonctions obtention, amplification et décalage de tension
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Savoir identifier la structure permettant de convertir la grandeur mesurée en une tension électrique.
     - *Mettre en œuvre un élément permettant d’obtenir une tension électrique image de la grandeur mesurée (pont diviseur, pont de Wheatstone, transmetteur, boucle de courant 4-20 mA, etc.).*

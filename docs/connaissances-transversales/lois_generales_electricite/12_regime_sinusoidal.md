@@ -4,7 +4,7 @@ title: Régime sinusoïdal
 
 # Régime sinusoïdal
 
-!!! warning "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Savoir déterminer les caractéristiques (amplitude, valeur efficace, fréquence, pulsation, période, phase à l’origine, etc.) d’un signal sinusoïdal à partir de son expression littérale réelle ou de son chronogramme.
     - *Déterminer le déphasage entre deux signaux sinusoïdaux à partir de leurs chronogrammes.*

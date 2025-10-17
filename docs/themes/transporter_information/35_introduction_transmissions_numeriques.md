@@ -4,7 +4,7 @@ title: Introduction aux transmissions numériques
 
 # Introduction aux transmissions numériques
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Connaître les principaux éléments d’une chaîne de transmission numérique de l’information (codages sources et canal, émetteur, canal de transmission, récepteur, etc.).
     - Connaître la nécessité de moduler (largeur du canal, fréquence centrale).

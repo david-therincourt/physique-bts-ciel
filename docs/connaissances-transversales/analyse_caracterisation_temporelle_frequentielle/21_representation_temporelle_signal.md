@@ -4,7 +4,7 @@ title: Représentation temporelle d’un signal
 
 # Représentation temporelle d’un signal
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Savoir identifier le type de signal (périodique ou non et/ou aléatoire) grâce à son chronogramme.
     - Savoir déterminer les caractéristiques d’un signal périodique (période, fréquence, valeur moyenne, valeur efficace, valeur maximale, valeur crête à crête).

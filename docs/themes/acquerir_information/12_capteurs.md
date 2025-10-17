@@ -4,7 +4,7 @@ title: Les capteurs
 
 # Les capteurs
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Savoir identifier les grandeurs d’entrée et de sortie d’un capteur et son type (analogique, intégré, numérique, Tout ou Rien (T.O.R.)).
     - Savoir définir la sensibilité d’un capteur et préciser son unité.

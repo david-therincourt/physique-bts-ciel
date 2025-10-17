@@ -4,7 +4,7 @@ title: Correction analogique ou numérique
 
 # Correction analogique ou numérique
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Savoir positionner un correcteur dans le schéma fonctionnel d’un système asservi.
     - Connaître les effets des actions P, I et D sur les performances d’un système bouclé.

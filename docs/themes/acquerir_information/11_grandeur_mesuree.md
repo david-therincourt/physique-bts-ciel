@@ -4,7 +4,7 @@ title: La grandeur mesurée
 
 # La grandeur mesurée
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Savoir identifier les grandeurs mesurées par un système électronique et préciser leurs unités.
     - Exploiter un document expliquant l’origine de la variation de la mesure.

@@ -4,7 +4,7 @@ title: Filtrage numérique
 
 # Filtrage numérique
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Savoir identifier une équation de récurrence récursive ou non récursive.
     - Savoir représenter le schéma structurel associé à une équation de récurrence et réciproquement.
@@ -13,5 +13,5 @@ title: Filtrage numérique
     - Savoir qu’un filtre à réponse impulsionnelle infinie (RII) peut-être instable.
     - Savoir identifier un filtre numérique stable ou instable à partir de sa réponse impulsionnelle ou indicielle.
     - Savoir déterminer la ou les fréquences de coupure à -3 dB à partir de la courbe de l’amplification en fonction de la fréquence ou fréquence réduite.
-    - Savoir justifier la limite de tracé en abscisse à f=fe/2 ou f/fe = 1/2 de la courbe d’amplification (fe étant la fréquence d’échantillonnage).
+    - Savoir justifier la limite de tracé en abscisse à $f=\dfrac{f_e}{2}$ ou $\dfrac{f}{f_e} = \dfrac{1}{2}$ de la courbe d’amplification ($f_e$ étant la fréquence d’échantillonnage).
     - *Mettre en œuvre un filtre numérique défini à partir d’un cahier des charges et vérifier que la courbe d’amplification (ou courbe de gain) s’inscrit bien dans le gabarit défini dans le cahier des charges.*

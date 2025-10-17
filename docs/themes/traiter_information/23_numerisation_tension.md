@@ -4,7 +4,7 @@ title: Numérisation d’une tension
 
 # Numérisation d’une tension
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Connaître et savoir appliquer la condition de Shannon.
     - Savoir exploiter le spectre d’un signal échantillonné.

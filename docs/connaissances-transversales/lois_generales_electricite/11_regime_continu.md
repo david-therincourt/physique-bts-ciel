@@ -4,7 +4,8 @@ title: Régime continu
 
 # Régime continu
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
+
 
     - Connaître et savoir utiliser les lois fondamentales de l’électricité (loi des nœuds, loi des mailles, loi d’Ohm).
     - Connaître et savoir utiliser la relation du pont diviseur de tension.

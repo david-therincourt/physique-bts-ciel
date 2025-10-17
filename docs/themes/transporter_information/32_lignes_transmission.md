@@ -4,7 +4,7 @@ title: Lignes de transmission
 
 # Lignes de transmission
 
-!!! quote "Repère pour la formation – Partie physique - Option B"
+!!! note "Repère pour la formation (option B) : capacités exigibles / *activités expérimentales*"
 
     - Savoir définir l’impédance caractéristique d’une ligne comme étant l’impédance à placer en bout de ligne permettant de l’adapter.
     - Connaître les effets d’une ligne adaptée, en court-circuit ou coupée sur le signal en entrée de la ligne.
