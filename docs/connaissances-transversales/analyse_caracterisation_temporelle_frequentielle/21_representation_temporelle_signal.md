@@ -10,6 +10,9 @@ title: Représentation temporelle d’un signal
     - Savoir déterminer les caractéristiques d’un signal périodique (période, fréquence, valeur moyenne, valeur efficace, valeur maximale, valeur crête à crête).
     - *Savoir régler un générateur pour produire un signal périodique dont les caractéristiques sont données.*
 
+!!! warning
+
+    Anciens documents en cours de modification !
 
 
 ## Cours

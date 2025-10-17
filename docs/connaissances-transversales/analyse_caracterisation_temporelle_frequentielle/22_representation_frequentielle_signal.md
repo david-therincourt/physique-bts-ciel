@@ -13,7 +13,9 @@ title: Représentation fréquentielle d’un signal
     - Savoir utiliser une échelle en dB (dBm, dBV ou dBµV) sur un spectre (mesure de l’amplitude de chaque raie) et avoir conscience de son utilité (visualiser les raies de faible amplitude).
 
 
+!!! warning
 
+    Anciens documents en cours de modification !
 
 
 ## Cours

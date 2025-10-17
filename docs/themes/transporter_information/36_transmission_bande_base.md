@@ -12,6 +12,12 @@ title: Transmission numérique en bande de base
     - Identifier les caractéristiques des codages en bande de base utilisés dans des réseaux locaux et des bus de carte (par exemple : Ethernet, CAN, I2C, SPI, Universal Asynchronous Receiver Transmitter (UART), etc.) à partir d’une documentation technique, d’un chronogramme, d’une densité spectrale de puissance (DSP).
     - *Proposer et réaliser un protocole pour visualiser et caractériser un signal en bande de base (débit binaire, durée d’un bit, débit de symboles, encombrement spectral,efficacité spectrale).*
 
+!!! warning
+
+    Anciens documents en cours de modification !
 
 
+## Cours
+
+[Transmission numérique en bande de base - Cours :fontawesome-solid-file-pdf:](../../assets/cours/transmission-numerique-bande-base/bts-ciel_transmission-numeriques-bande-base_cours.pdf)
 

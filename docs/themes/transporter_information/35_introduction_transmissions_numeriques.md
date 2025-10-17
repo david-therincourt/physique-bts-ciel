@@ -12,5 +12,7 @@ title: Introduction aux transmissions numériques
 
 ## Cours
 
+[Introduction aux transmissions numériques - Cours :fontawesome-solid-file-pdf:](../../assets/cours/introduction-transmissions-numériques/bts-ciel_introduction-transmissions-numeriques_cours.pdf)
+
 
 

@@ -19,5 +19,10 @@ title: Numérisation d’une tension
       d’échantillonnage.*
     - Connaître la définition de la profondeur mémoire d’un système de numérisation.
 
+## Cours
 
+[Numérisation d’une tension - Cours :fontawesome-solid-file-pdf:](../../assets/cours/numerisation-tension/bts-ciel_numerisation-tension_cours.pdf)
 
+## Exercices
+
+[Numérisation d’une tension - Exercices :fontawesome-solid-file-pdf:](../../assets/cours/numerisation-tension/bts-ciel_numerisation-tension_exercices.pdf)

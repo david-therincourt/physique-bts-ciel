@@ -18,8 +18,8 @@ title: Régime sinusoïdal
 
 ## Cours
 
+[Régime sinusoïdal - Cours :fontawesome-solid-file-pdf:](../../assets/cours/regime-sinusoidal/bts-ciel_regime-sinusoidal_cours.pdf)
 
 ## Exercices
 
-
-## TP
+[Régime sinusoïdal - Exercices :fontawesome-solid-file-pdf:](../../assets/cours/regime-sinusoidal/bts-ciel_regime-sinusoidal_exercices.pdf)

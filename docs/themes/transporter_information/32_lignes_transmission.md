@@ -14,4 +14,12 @@ title: Lignes de transmission
     - *Utiliser un testeur de ligne permettant de valider certaines de ses caractéristiques (longueur, catégorie, désignation, défaut éventuel, etc.).*
 
 
+!!! warning
+
+    Anciens documents en cours de modification !
+
+
+## Cours
+
+[Lignes de transmission - Cours :fontawesome-solid-file-pdf:](<../../assets/cours/lignes-transmission/bts-ciel_lignes_ transmission_cours.pdf>)
 

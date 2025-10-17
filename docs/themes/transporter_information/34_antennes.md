@@ -13,4 +13,15 @@ title: Les antennes
     - *Mettre en œuvre une liaison radio permettant de valider un bilan de liaison (Lora, Wifi, ISM, etc.)*
 
 
+!!! warning
 
+    Anciens documents en cours de modification !
+
+
+## Cours
+
+[Les antennes - Cours :fontawesome-solid-file-pdf:](../../assets/cours/antennes/bts-ciel_antennes_cours.pdf)
+
+## Exercices
+
+[Les antennes - Exercices :fontawesome-solid-file-pdf:](../../assets/cours/antennes/bts-ciel_antennes_exercices.pdf)

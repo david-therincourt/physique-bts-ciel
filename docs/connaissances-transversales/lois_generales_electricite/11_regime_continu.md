@@ -13,6 +13,9 @@ title: Régime continu
     - Savoir calculer la puissance, l’énergie fournie par un générateur ou consommée par un récepteur.
     - Savoir calculer l’autonomie d’une batterie à partir de sa capacité.
 
+!!! warning
+
+    Anciens documents en cours de modification !
 
 ## Cours
 

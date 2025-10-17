@@ -15,4 +15,10 @@ title: Transmission sur fréquence(s) porteuse(s)
     - *Visualiser et interpréter le diagramme de constellation.*
     - *Proposer et réaliser un protocole pour déterminer la fréquence porteuse et l’encombrement spectral d’une modulation.*
 
+!!! warning
 
+    Anciens documents en cours de modification !
+
+## Cours
+
+[Transmission numérique sur fréquence(s) porteuse(s) - Cours :fontawesome-solid-file-pdf:](../../assets/cours/transmission-frequences-porteuses/bts-ciel_transmission-numerique-frequences-porteuses_cours.pdf)

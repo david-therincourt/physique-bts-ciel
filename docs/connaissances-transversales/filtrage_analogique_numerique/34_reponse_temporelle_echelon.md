@@ -16,7 +16,14 @@ title: Réponse temporelle à un échelon
     - Savoir déterminer les caractéristiques de la fonction de transfert d’un filtre du premier ordre ($T_0$, $\tau$, $\omega_0$) et du second ordre ($T_0$, $m$, $\omega_0$) à partir de sa réponse à un échelon et d’abaques.
     - *Proposer et mettre en œuvre un protocole expérimental pour relever la réponse d’un système à un échelon.*
 
+!!! warning
 
+    Anciens documents en cours de modification !
 
+## Cours
 
+[Réponse temporelle à un échelon - Cours :fontawesome-solid-file-pdf:](../../assets/cours/reponse-temporelle-echelon/bts-ciel_reponse-temporelle-echelon_cours.pdf)
 
+## Exercices
+
+[Réponse temporelle à un échelon - Exercices :fontawesome-solid-file-pdf:](../../assets/cours/reponse-temporelle-echelon/bts-ciel_reponse-temporelle-echelon_exercices.pdf)
